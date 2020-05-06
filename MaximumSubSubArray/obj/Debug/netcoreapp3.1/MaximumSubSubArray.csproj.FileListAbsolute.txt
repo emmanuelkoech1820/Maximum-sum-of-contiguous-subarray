@@ -1,0 +1,11 @@
+C:\Users\manu\source\repos\MaximumSubSubArray\MaximumSubSubArray\bin\Debug\netcoreapp3.1\MaximumSubSubArray.exe
+C:\Users\manu\source\repos\MaximumSubSubArray\MaximumSubSubArray\bin\Debug\netcoreapp3.1\MaximumSubSubArray.deps.json
+C:\Users\manu\source\repos\MaximumSubSubArray\MaximumSubSubArray\bin\Debug\netcoreapp3.1\MaximumSubSubArray.runtimeconfig.json
+C:\Users\manu\source\repos\MaximumSubSubArray\MaximumSubSubArray\bin\Debug\netcoreapp3.1\MaximumSubSubArray.runtimeconfig.dev.json
+C:\Users\manu\source\repos\MaximumSubSubArray\MaximumSubSubArray\bin\Debug\netcoreapp3.1\MaximumSubSubArray.dll
+C:\Users\manu\source\repos\MaximumSubSubArray\MaximumSubSubArray\bin\Debug\netcoreapp3.1\MaximumSubSubArray.pdb
+C:\Users\manu\source\repos\MaximumSubSubArray\MaximumSubSubArray\obj\Debug\netcoreapp3.1\MaximumSubSubArray.csprojAssemblyReference.cache
+C:\Users\manu\source\repos\MaximumSubSubArray\MaximumSubSubArray\obj\Debug\netcoreapp3.1\MaximumSubSubArray.AssemblyInfoInputs.cache
+C:\Users\manu\source\repos\MaximumSubSubArray\MaximumSubSubArray\obj\Debug\netcoreapp3.1\MaximumSubSubArray.AssemblyInfo.cs
+C:\Users\manu\source\repos\MaximumSubSubArray\MaximumSubSubArray\obj\Debug\netcoreapp3.1\MaximumSubSubArray.dll
+C:\Users\manu\source\repos\MaximumSubSubArray\MaximumSubSubArray\obj\Debug\netcoreapp3.1\MaximumSubSubArray.pdb
